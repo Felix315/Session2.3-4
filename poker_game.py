@@ -78,4 +78,3 @@ while matches < 10:
     count += 1
 
 print(f"probability of a full house is {100*matches/count}%")
-
